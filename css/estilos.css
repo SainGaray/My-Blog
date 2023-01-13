@@ -33,7 +33,16 @@ body{
 #container h1{
     font-size: 20px;
 }
+<<<<<<< HEAD
 #post{
     background: white;
     padding: 1em;
+}
+=======
+#footer{
+    background: whitesmoke;
+    color: seagreen;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> 12fca8fb05ef9aec10ade9149282a0ae37124d3f
 }
