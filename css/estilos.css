@@ -28,3 +28,9 @@ body{
 #container h1{
     font-size: 20px;
 }
+#footer{
+    background: whitesmoke;
+    color: seagreen;
+    text-align: center;
+    padding: 0.5em;
+}
