@@ -3,3 +3,4 @@ Mi blog personal para aprender Git y Github, en este curso he aprendido demsaiad
 
 Creado por Platzi Team
 Icluye ejemplos en Linux Windows y Mac
+Disponible para todas las edades
